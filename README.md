@@ -1,12 +1,12 @@
-#Person Recognition System using CNN and Transfer Learning
+# Person Recognition System using CNN and Transfer Learning
 
 **Person recognition system leveraging the power of Convolutional Neural Networks (CNNs) and transfer learning.**
 
-#Project Overview:
+# Project Overview:
 
 Identifying individuals in images and videos is a fundamental task in computer vision with applications in security, surveillance, and personalized services. This project aims to develop a highly accurate person recognition system by leveraging the power of deep learning, specifically CNNs and transfer learning.
 
-#Key Features:
+# Key Features:
 
 **Data Preprocessing:**
 Image cleaning and normalization
@@ -26,13 +26,13 @@ Rigorous evaluation using metrics like accuracy, precision, recall, and F1-score
 **Real-time Implementation:**
 Integration of the model into a real-time application for efficient person recognition.
 
-#Benefits of Using CNNs and Transfer Learning:
+# Benefits of Using CNNs and Transfer Learning:
 
 Enhanced Accuracy: CNNs excel at extracting intricate features from images, leading to improved recognition accuracy.
 Reduced Training Time: Transfer learning allows us to leverage knowledge from pre-trained models, significantly reducing training time and computational resources.
 State-of-the-Art Performance: By combining CNNs and transfer learning, we can achieve state-of-the-art results in person recognition.
 
-#Potential Applications:
+# Potential Applications:
 
 **Security Systems:** Access control, surveillance, and forensic analysis
 **Smart Cities:** Traffic monitoring, crowd analysis, and public safety
