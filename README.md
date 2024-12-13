@@ -25,6 +25,9 @@ Rigorous evaluation using metrics like accuracy, precision, recall, and F1-score
 **Real-time Implementation:**
 Integration of the model into a real-time application for efficient person recognition.
 
+# Model designe:
+![Trasfermodel](https://github.com/user-attachments/assets/25b2169f-16fb-4749-937b-f4a823bb491e)
+
 # Benefits of Using CNNs and Transfer Learning:
 
 Enhanced Accuracy: CNNs excel at extracting intricate features from images, leading to improved recognition accuracy.
