@@ -1,6 +1,5 @@
 # Person Recognition System using CNN and Transfer Learning
 
-**Person recognition system leveraging the power of Convolutional Neural Networks (CNNs) and transfer learning.**
 
 # Project Overview:
 
@@ -34,9 +33,12 @@ State-of-the-Art Performance: By combining CNNs and transfer learning, we can ac
 
 # Potential Applications:
 
-**Security Systems:** Access control, surveillance, and forensic analysis
-**Smart Cities:** Traffic monitoring, crowd analysis, and public safety
-**Retail:** Customer analytics and personalized marketing
+**Security Systems:** Access control, surveillance, and forensic analysis.
+
+**Smart Cities:** Traffic monitoring, crowd analysis, and public safety.
+
+**Retail:** Customer analytics and personalized marketing.
+
 **Healthcare:** Patient identification and monitoring
 By pushing the boundaries of deep learning, this project aims to contribute to the advancement of person recognition technology and its practical applications.
 
