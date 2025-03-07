@@ -1,8 +1,4 @@
 # Face Recognition System using CNN and Transfer Learning
-
-
-# Project Overview:
-
 Identifying individuals in images and videos is a fundamental task in computer vision with applications in security, surveillance, and personalized services. This project aims to develop a highly accurate person recognition system by leveraging the power of deep learning, specifically CNNs and transfer learning.
 
 # Key Features:
