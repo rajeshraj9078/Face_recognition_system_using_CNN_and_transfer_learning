@@ -1,4 +1,4 @@
-# Person Recognition System using CNN and Transfer Learning
+# Face Recognition System using CNN and Transfer Learning
 
 
 # Project Overview:
